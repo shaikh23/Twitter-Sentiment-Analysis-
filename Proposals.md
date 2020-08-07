@@ -12,6 +12,6 @@ This project would utilize a narrative format via jupyter notebooks along with a
 
 
 I would like to try to predict overall coronavirus cases and deaths based upon several features such as gender, class, race etc..
-The primary model utilized here would be linear regression. The data would be gathered from the CDC through their api.
+The primary model utilized here would be logistical regression and random forest. The data would be gathered from the CDC through their api.
 This project would utilize a narrative format via jupyter notebooks along with a set of slides to give additional information.
 
